@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  gap: 15px;
+}
+
+.flex div {
+  flex-basis: 50%;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px;
+}

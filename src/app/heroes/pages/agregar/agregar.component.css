@@ -1,0 +1,12 @@
+.flex {
+  display: flex;
+  gap: 10px;
+}
+
+.flex div {
+  flex-basis: 50%;
+}
+
+mat-form-field {
+  width: 100%;
+}
